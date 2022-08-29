@@ -7,7 +7,7 @@
 - Enter '0' for squares to be filled in the sudoku.
 
 ## Release v1.0
-- <a href="">`Download Sudoku Solver`</a>
+- <a href="https://github.com/Ashrockzzz2003/Sudoku_Solver/releases/download/v1.0/sudoku_solver.exe">`Download Sudoku Solver`</a>
 
 Developed by,<br>
 `Ashwin Narayanan S`
