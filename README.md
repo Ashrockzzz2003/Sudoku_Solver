@@ -1,5 +1,5 @@
 # Sudoku_Solver
-- A Sudoku Puzzle solver!
+- A Sudoku Puzzle solver for your morning Coffee!
 - Made with C++
 - Especially designed to solve 9*9 Sudoku Puzzles
 
